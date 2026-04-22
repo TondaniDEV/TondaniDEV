@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TondaniDEV
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning javascripts 
-- 💞️ I’m looking to collaborate 
+- 👋 Hi, I’m @Tondanisadiki
+- 👀 No software Development for just Data 
+- 🌱 I’m currently learning Machine learing  
+- 💞️ I’m looking to do amazing things 
 - 📫 How to reach me via linkedin 
 - 😄 Pronouns: Super woman 
 - ⚡ Fun fact: I can do literally anything 
